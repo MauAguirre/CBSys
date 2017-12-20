@@ -19,3 +19,24 @@ C:\Users\ma.aguirre\documents\visual studio 2017\Projects\CBSys\CBSys\obj\Debug\
 C:\Users\ma.aguirre\documents\visual studio 2017\Projects\CBSys\CBSys\obj\Debug\CBSys.dll
 C:\Users\ma.aguirre\documents\visual studio 2017\Projects\CBSys\CBSys\obj\Debug\CBSys.pdb
 C:\Users\ma.aguirre\documents\visual studio 2017\Projects\CBSys\CBSys\obj\Debug\CBSys.csprojResolveAssemblyReference.cache
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\CBSys.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\CBSys.pdb
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\CBSys.dll.manifest
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\CBSys.vsto
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\CBSys.xlsx
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Neodynamic.SDK.Barcode.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\bin\Debug\Neodynamic.SDK.Barcode.xml
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.csprojResolveAssemblyReference.cache
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.Properties.Resources.resources
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.RibCBSys.resources
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.ThisWorkbook.resources
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.csproj.GenerateResource.Cache
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.dll
+C:\Users\ma.aguirre\Documents\GitHub\CBSys\CBSys\CBSys\obj\Debug\CBSys.pdb
